@@ -1,4 +1,4 @@
-package com.gmail.vorkka.dev.starwarscharacterfinder
+package com.gmail.vorkka.dev.starwarscharacterfinder.data.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
